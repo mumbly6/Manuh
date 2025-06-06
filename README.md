@@ -1,0 +1,12 @@
+a tech tool to visualize, analyze, and explore government budget data using open-source Python technologies. Inspired by Estonia's world-leading digital governance, this project aims to promote transparency and data-driven public accountability in Kenya and beyond.What It Does Reads and processes budget data (e.g., by year, ministry, sector) - 📊 Creates interactive visualizations of allocations vs spending - 🌍 Designed to help citizens, journalists, and students better understand where public funds go  💻 Built With - [Python](https://www.python.org/) - [Streamlit](https://streamlit.io/) – rapid data app development - [Pandas](https://pandas.pydata.org/) – for data analysis - [Plotly](https://plotly.com/) – for beautiful interactive graphs - [Open Data sources](https://opencounty.org/) – Kenyan budget info ## 🚀 Why Estonia? Estonia transformed itself into a digital-first society by building transparent digital systems and making citizen services accessible online. Through this project, I explore how similar principles can be applied in my home country — Kenya as we face similar challenges  This project is part of my personal journey as a **Statistics & Programming major at Kenyatta University, and my ambition to pursue further studies in digital governance, software development, and civic tech in Estonia.  Key Features -  budget explorer by year or ministry - Charts comparing budgeted vs actual expenditure - Export reports or charts as PDFs/PNGs - Designed with simplicity in mind – can run locally or on cloud :How to Run ;bash pip install -r requirements.txt streamlit run app/main.py 📁 Data Sources Kenya National Treasury Open County Portal Estonia e-Government Case Studies :Future Improvements Compare Kenyan + Estonian spending priorities Add APIs to fetch live data Embed budget literacy quizzes or visual storytelling About Me 
+
+I am Emmanuel Kilonzo, a Kenyan undergraduate passionate about open data, innovation, and building digital tools that make governance more transparent. This project is both a practical application of my skills and a step toward applying for graduate studies in Estonia.
+
+“Digital governance starts with digital citizenship — and code is my passport.”
+
+📫 Email me | 🌍 Kaggle (soon) | 🖥️ GitHub Profile
+
+📜 License 
+
+This project is licensed under the [MIT
+
