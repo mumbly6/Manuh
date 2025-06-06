@@ -2,11 +2,8 @@ a tech tool to visualize, analyze, and explore government budget data using open
 
 I am Emmanuel Kilonzo, a Kenyan undergraduate passionate about open data, innovation, and building digital tools that make governance more transparent. This project is both a practical application of my skills and a step toward applying for graduate studies in Estonia.
 
-“Digital governance starts with digital citizenship — and code is my passport.”
+“Digital governance starts with digital citizenship — and code is my passport🙂
+ 
 
-📫 Email me | 🌍 Kaggle (soon) | 🖥️ GitHub Profile
 
-📜 License 
-
-This project is licensed under the [MIT
 
